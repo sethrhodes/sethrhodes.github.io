@@ -9,5 +9,5 @@ h1 {
 }
 body{
 	text-align: center;
-	background: url(http://fleurpublishing.com/wp/wp-content/uploads/2016/11/mp-cover.jpg);
+	background: url("http://fleurpublishing.com/wp/wp-content/uploads/2016/11/mp-cover.jpg");
 }
