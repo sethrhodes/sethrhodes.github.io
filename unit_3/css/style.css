@@ -5,4 +5,9 @@ p {
 
 h1 {
 	text-decoration: sans-serif;
+
+}
+body{
+	text-align: center;
+	background: url("http://fleurpublishing.com/wp/wp-content/uploads/2016/11/mp-cover.jpg");
 }
