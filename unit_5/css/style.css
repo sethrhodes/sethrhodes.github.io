@@ -2,10 +2,41 @@ header {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
+	text-align: center;
 }
 
 nav {
 	background-color: #E8C66A;
-	border: 1px solid black;
+	border: 1px black solid;
 	padding: 20px;
+	text-align: center;
+}
+section {
+	background-color: #FFE2B8;
+	padding: 20px;
+	border: 1px black solid;
+}
+aside { 
+	border: 1px black solid;
+	padding: 20px;
+	background-color: #FFC675;
+	text-align: center;
+}
+article {
+	border: 1px black solid;
+	padding: 20px;
+	text-align: center;
+	background-color: #E89C6C 
+}
+footer {
+	border: 1px black solid;
+	text-align: center;
+	background-color: #FF957E;
+	padding: 20px;
+
+}
+div{
+	background-color: #FFE2B8;
+	padding: 20px;
+	border: 1px black solid;
 }
