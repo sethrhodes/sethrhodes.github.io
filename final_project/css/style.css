@@ -63,8 +63,9 @@ p {
 
 }
 
-h3 {
+section h3 {
 	font-size: 25px;
+	color: black;
 }
 
 
@@ -80,9 +81,10 @@ h3 {
 footer {
 	background-color: black;
 	padding: 20px;
+	text-align: center;
 }
 
 footer p, h3 {
-	color: aqua;
 	text-align: center;
+	color: aqua;
 }
