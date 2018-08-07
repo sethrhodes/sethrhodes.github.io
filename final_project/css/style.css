@@ -69,9 +69,8 @@ p {
 
 }
 
-section h3 {
+h3 {
 	font-size: 25px;
-	color: black;
 }
 
 
@@ -88,16 +87,18 @@ section h3 {
 footer {
 	background-color: black;
 	padding: 20px;
-	text-align: center;
 }
 
 footer p, h3 {
-	text-align: center;
 	color: aqua;
+<<<<<<< HEAD
 }
 
 @media only screen and (max-width: 943px) {
 	.right-image {
 		width: 65%;
 	}
+=======
+	text-align: center;
+>>>>>>> parent of 11df43a... work
 }
